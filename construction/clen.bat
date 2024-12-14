@@ -1,0 +1,1 @@
+.\..\..\..\..\AppData\Local\Programs\Python\Python312\python.exe clean_old_versions.py
